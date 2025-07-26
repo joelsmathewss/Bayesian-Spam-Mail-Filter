@@ -17,7 +17,7 @@ Text is preprocessed using the nltk library to remove noise and normalize inputs
 ## Dependencies
 
 - Python 3.x
-- NLTK (Natural Language Toolkit)
+- NLTK (Natural Language Toolkit for text processing)
 - Scikit-learn
 - Pandas
 - NumPy
