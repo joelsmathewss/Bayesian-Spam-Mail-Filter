@@ -1,4 +1,4 @@
-#  Bayesian Spam Filter
+#  Bayesian Spam Filter.
 
 **NOTE:** This project was developed as a hobby while learning a course on Natural Language Processing and Machine Learning.
 
